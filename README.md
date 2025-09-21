@@ -13,6 +13,8 @@ App em **React Native/Expo** que permite buscar informações de endereço pelo 
 - Última busca por CEP exibida separadamente.  
 - Funciona em **Android, iOS e Web**.
 
+https://github.com/user-attachments/assets/32d92813-5e6f-4f3c-86db-4a8df2a6bec4
+
 ---
 
 ## ⚙️ Tecnologias
